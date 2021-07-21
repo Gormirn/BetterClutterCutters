@@ -1,0 +1,11 @@
+name = "BetterClutterCutters";
+picture = "BetterClutterCutters\BetterClutterCutter\textures\BetterClutterCutters_logo.edds";
+logo = "BetterClutterCutters\BetterClutterCutter\textures\BetterClutterCutters_logo.edds";
+logoSmall = "BetterClutterCutters\BetterClutterCutter\textures\BetterClutterCutters_logo.edds";
+logoOver = "BetterClutterCutters\BetterClutterCutter\textures\BetterClutterCutters_logo.edds";
+tooltip = "BetterClutterCutters";
+overview = "";
+action = "";
+author = "Gormirn";
+authorID = "";
+version = "1.1";
